@@ -1,6 +1,6 @@
 {
   "name": "server",
-  "summary": "Console-only - no WM/DE installed (EXPERTS ONLY)",
+  "summary": "Headless Install - Intended for servers that don't need graphical drivers or sound support (EXPERTS ONLY)",
   "description": "Are you sure? Like, REALLY sure?",
   "display": true,
   "priority": 100,
@@ -9,7 +9,6 @@
   ],
   "required": [
     "networkmanager",
-    "networkmanager-wifi"
     "binary(nmtui)",
     "sysbinary(sshd)"
   ]
