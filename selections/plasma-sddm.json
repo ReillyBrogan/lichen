@@ -3,7 +3,7 @@
   "summary": "Plasma Desktop - SDDM Login Manager",
   "description": "Recommended for most users",
   "display": true,
-  "priority": 15,
+  "priority": 20,
   "depends": [
     "plasma-shared"
   ],
