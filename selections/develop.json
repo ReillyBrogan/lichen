@@ -8,6 +8,6 @@
   "required": [
     "binary(boulder)",
     "binary(git)",
-    "binary(yq)",
+    "binary(yq)"
   ]
 }
